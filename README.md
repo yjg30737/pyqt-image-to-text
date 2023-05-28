@@ -44,3 +44,8 @@ example image files which i was using to test are inside each src and dst, you c
 If you encounter any error, check this out:
 * transformers is not recent version
 * required modules to transformers are not recent version or not be installed (such as sentencepiece, safetensors)
+
+## See Also
+I'm working on a lot of AI-related project.
+* <a href="https://github.com/yjg30737/pyqt-openai">pyqt-openai</a> - pyqt implementation of chatgpt 
+* <a href="https://github.com/yjg30737/pyqt-dreamstudio.git">pyqt-dreamstudio</a> - using stable diffusion in pyqt desktop app
