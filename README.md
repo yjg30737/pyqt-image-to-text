@@ -32,13 +32,19 @@ After you've done it, press "Save" button to save files to your desired director
 
 You can see the result of it.
 
+For example:
+
 <image src="https://github.com/yjg30737/pyqt-image-to-text/assets/55078043/83c3e721-ea80-430e-ae8d-54021b5886a4" width="200" height="300"/>
+
+This image is converted into text as:
 
 ```
 a tv sitting on top of a stand in a room
 ```
 
-example image files which i was using to test are inside each src and dst, you can compare with each other :)
+Based on the text, file will be saved to dst folder named "a_tv_sitting_on_top_of_a_stand_in_a_room".
+
+Example image files which i was using to test are inside each src and dst, you can compare with each other :)
 
 ## Troubleshooting
 If you encounter any error, check this out:
