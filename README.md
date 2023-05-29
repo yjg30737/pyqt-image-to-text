@@ -11,8 +11,11 @@ This is for saving image files' name based on its image.
 
 ## How to Install
 1. git clone ~ 
-2. pip install -r requirements.txt
-3. from the root directory, type "cd pyqt_image_to_text"
+2. cd pyqt-image-to-text
+3. python setup.py install
+4. pip install -r requirements.txt
+5. cd pyqt_image_to_text
+6. python main.py
 
 See "How to Use" below 🙂
 
