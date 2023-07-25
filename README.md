@@ -53,6 +53,7 @@ Example image files which i was using to test are inside each src and dst, you c
 If you encounter any error, check this out:
 * transformers is not recent version
 * required modules to transformers are not recent version or not be installed (such as sentencepiece, safetensors)
+* if it is related to scikit-learn, try reinstall sckit-learn. make sure previous versions of it are all deleted
 
 ## See Also
 I'm working on a lot of AI-related project.
